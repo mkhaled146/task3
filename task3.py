@@ -1,4 +1,4 @@
-for x in range(6,10+1):
+for x in range(6,7+1):
     print(x)
 
 
@@ -8,9 +8,9 @@ for x in range(6,10+1):
 
 
 if x < 20:
-    for x in range(5,10,2):
+    for x in range(3,12,18+1):
         print(x)
 
 else:
-    for x in range(5+1, 9, 1):
+    for x in range(2, 8, 18+1):
         print(x)
