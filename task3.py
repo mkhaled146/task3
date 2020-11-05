@@ -7,9 +7,11 @@ for x in range(20):
 
 
 
+x=10
 if x < 20:
-   for x in range(0,50,3):
+   for x in range(10,50,3):
         print(x)
 else:
-    for x in range(0,50,2):
+    for x in range(10,50,2):
         print(x)
+
